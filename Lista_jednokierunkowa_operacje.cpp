@@ -1,11 +1,3 @@
-//============================================================================
-//                  Algorytmy i Struktury Danych
-// Zadanie 2.1
-//  Lista jednokierunkowa
-//
-//  WCY21IX4S0  Miksiewicz Pawel
-//============================================================================
-
 #include <stdio.h>
 #include <iostream>
 #include <stdlib.h>
