@@ -1,11 +1,3 @@
-//============================================================================
-//                  Algorytmy i Struktury Danych
-// Zadanie 2.2
-//  Lista dwukierunkowa
-//
-//  WCY21IX4S0  Miksiewicz Pawel
-//============================================================================
-#include <iostream>
 #include <string>
 #include <fstream>
 #include <cstdlib>
